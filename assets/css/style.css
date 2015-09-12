@@ -2,7 +2,7 @@ h1, h2, h3 {
   font-family: "Helvetica Neue";
 }
 
-p, a {
+p, a, ol, ul {
   font-family: "HelveticaNeue-Light";
 }
 
