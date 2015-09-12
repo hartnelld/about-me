@@ -2,6 +2,10 @@ h1, h2, h3 {
   font-family: "Helvetica Neue";
 }
 
+h1 {
+  text-align: center;
+}
+
 p, a {
   font-family: "Georgia";
 }
@@ -9,6 +13,7 @@ p, a {
 img {
   width: 300px;
   border: 1px solid #000;
+  text-align: center;
 }
 
 a {
