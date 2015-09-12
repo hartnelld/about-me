@@ -11,9 +11,11 @@ This website is hosted courtesy of GitHub Pages. You can access it [here](https:
 
 >$ git clone https://github.com/hartnelld/about-me.git
 
+__Note:__ You'll want to make sure you're checking out the gh-pages branch. This is not syncd to the master branch currently.
+
 Once it is running it should look something like this: 
 
-![An image of the about-me website](https://github.com/hartnelld/about-me/assets/images/finished.png)
+![An image of the about-me website](http://hartnelld.github.io/about-me/assets/images/finished.png)
 
 ## Copyright and License
 
