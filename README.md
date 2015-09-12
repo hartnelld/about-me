@@ -19,4 +19,4 @@ Once it is running it should look something like this:
 
 ## Copyright and License
 
-Code released under [the MIT license](https://github.com/hartnelld/about-me/LICENSE.txt). 
+Code released under [the MIT license](https://github.com/hartnelld/about-me/blob/gh-pages/LICENSE.txt). 
