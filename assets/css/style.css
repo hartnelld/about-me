@@ -10,6 +10,10 @@ p, a, ol, ul {
   font-family: "HelveticaNeue-Light";
 }
 
+body {
+  background-image: url("/about-me/assets/images/skulls.png");
+}
+
 img {
   width: 300px;
   border: 1px solid #000;
