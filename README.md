@@ -3,11 +3,13 @@ __Author:__ Daniel Hartnell
 
 ## Description
 
-about-me is my place on the web. This is my first code review for Epicodus and it demonstrates an introductory understanding of HTML, CSS, Markdown and GitHub.
+about-me is my place on the web. This is my first code review for Epicodus and it demonstrates an introductory understanding of HTML, CSS, Markdown and GitHub. You can access it here: 
+
+[https://hartnelld.github.io/about-me/](https://hartnelld.github.io/about-me/)
 
 ## Setup Instructions
 
-This website is hosted courtesy of GitHub Pages. You can access it [here](https://hartnelld.github.io/about-me/). If you want to host it yourself you can clone a copy of the repository and open it in your web browser of choice.
+This website is hosted courtesy of GitHub Pages. As stated above, you can access it [here](https://hartnelld.github.io/about-me/). If you want to host it yourself you can clone a copy of the repository and open it in your web browser of choice.
 
 >$ git clone https://github.com/hartnelld/about-me.git
 
